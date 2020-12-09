@@ -1,4 +1,4 @@
-# SageMaker Elastic Inference Practice
+# SageMaker Inference Practice
 
 
 ## Running Tests
